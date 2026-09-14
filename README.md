@@ -1,14 +1,18 @@
 # 50-command-linux-ubuntu
 # 1. Menampilkan lokasi direktori saat ini
-"C:\Users\User\OneDrive\Pictures\Screenshots\Screenshot 2026-09-14 214729.png"
+pwd
+"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_21_54_07.png"
 # 2. Melihat isi direktori
 ls
+"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_21_57_01.png"
 
 # 3. Melihat isi direktori secara detail
 ls -l
+"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_21_58_58.png"
 
 # 4. Berpindah direktori
 cd Documents
+"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_22_01_01.png"
 
 # 5. Kembali ke direktori sebelumnya
 cd ..
