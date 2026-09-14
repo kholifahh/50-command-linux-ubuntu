@@ -1,18 +1,20 @@
 # 50-command-linux-ubuntu
 # 1. Menampilkan lokasi direktori saat ini
 pwd
-"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_21_54_07.png"
+<img width="1280" height="800" alt="VirtualBox_kholifahubuntu_14_09_2026_21_54_07" src="https://github.com/user-attachments/assets/cea38dd3-e23d-4aa2-8153-fe71fbc8571d" />
 # 2. Melihat isi direktori
 ls
-"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_21_57_01.png"
+<img width="1280" height="800" alt="VirtualBox_kholifahubuntu_14_09_2026_21_57_01" src="https://github.com/user-attachments/assets/ac2d22ca-5d71-44a0-bede-adb977714925" />
 
 # 3. Melihat isi direktori secara detail
 ls -l
-"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_21_58_58.png"
+<img width="1280" height="800" alt="VirtualBox_kholifahubuntu_14_09_2026_21_58_58" src="https://github.com/user-attachments/assets/18db72b3-cca3-407f-acf7-3b0111aed970" />
+
 
 # 4. Berpindah direktori
 cd Documents
-"C:\Users\User\VirtualBox VMs\kholifahubuntu\VirtualBox_kholifahubuntu_14_09_2026_22_01_01.png"
+<img width="1280" height="800" alt="VirtualBox_kholifahubuntu_14_09_2026_22_01_01" src="https://github.com/user-attachments/assets/57f57bea-eeb1-4ec1-a1c3-a5760965d4dc" />
+
 
 # 5. Kembali ke direktori sebelumnya
 cd ..
